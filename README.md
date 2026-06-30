@@ -82,6 +82,10 @@ comparison lightweight. The parser architecture is intentionally simple, so the
 results should be read as controlled evidence about available morphosyntactic
 cues rather than as general parsing-performance claims.
 
+## Limitations
+
+This is a small controlled course project rather than a state-of-the-art parser. The experiments use gold UPOS and UFeats to isolate morphosyntactic signal, and the treebanks are subsetted to keep the comparison lightweight. The parser architecture is intentionally simple, so the results should be read as controlled evidence about available morphosyntactic cues rather than as general parsing-performance claims.
+
 ## Files
 
 - `final_project_morphosyntax_parsing_cz_en.ipynb` — full pipeline: data
