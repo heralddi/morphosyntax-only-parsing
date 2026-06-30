@@ -1,2 +1,20 @@
-.DS_Store
+# Data downloaded by the notebook
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local OS/editor files
+.DS_Store
+.vscode/
+.idea/
