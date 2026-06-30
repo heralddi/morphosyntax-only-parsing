@@ -73,12 +73,4 @@ The experiments use Universal Dependencies data from the official GitHub treeban
 - [`UD_Czech-PDT`](https://github.com/UniversalDependencies/UD_Czech-PDT)
 - [`UD_English-EWT`](https://github.com/UniversalDependencies/UD_English-EWT)
 
-The treebank data is downloaded during notebook execution and is not included in this repository. See `DATA_VERSION.md` for the release pin used by the notebook.
-
-## Citation and license
-
-If you use or refer to this project, see `CITATION.cff` for citation metadata. The project code is released under the MIT License; the Universal Dependencies treebanks keep their own licenses and are not redistributed here.
-
-## Additional notes
-
-Short research notes on the experiment design are in `docs/experiment_notes.md`.
+The treebank data is downloaded during notebook execution and is not included in this repository.
