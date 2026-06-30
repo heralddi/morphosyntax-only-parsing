@@ -1,0 +1,5 @@
+conllu>=6.0.0
+networkx>=3.5
+numpy>=2.0
+torch>=2.0
+jupyter>=1.0

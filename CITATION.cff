@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or refer to this project, please cite it as below."
+title: "Morphosyntax-Only Parsing: Czech vs. English"
+authors:
+  - family-names: Di
+    given-names: Bao
+    name-particle: Herald
+year: 2026
+type: software
+license: MIT
+abstract: >-
+  A small controlled dependency-parsing project comparing lexicalized,
+  morphosyntax-only, and mixed representations on Czech and English Universal
+  Dependencies treebanks.
+keywords:
+  - computational linguistics
+  - dependency parsing
+  - morphosyntax
+  - Universal Dependencies
